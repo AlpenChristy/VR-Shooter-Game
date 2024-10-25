@@ -16,7 +16,7 @@ Contributing
 
 
 
-#### Features
+### Features
 VR Bullet Shooting: Players can shoot bullets, which play a sound effect upon firing.
 Interactive Target Dummies: Dummies activate when the player enters a trigger zone, allowing for target practice.
 Hand Animations: VR hand grip and trigger animations based on player input.
@@ -25,7 +25,7 @@ XR Simulator Support: Provides VR-like controls for users without VR hardware.
 Getting Started
 This project is ideal for those learning VR development with Unity and wanting to understand basic VR interactions.
 
-#### Requirements
+### Requirements
 **Unity:** Version 2021.3 or newer
 **VR Headset:** Oculus, HTC Vive, or other Unity-compatible VR headset (optional if using the XR Simulator)
 **Git:** For cloning the repository
@@ -39,7 +39,7 @@ Open Unity Hub, select the cloned project folder, and open it.
 **Configure XR Settings:**
 Go to Edit > Project Settings > XR Plug-in Management and enable the VR platform relevant to your headset (e.g., Oculus or OpenXR).
 
-#### Assets
+### Assets
 This project includes assets from the Unity Asset Store and custom assets for VR hand interactions.
 
 **Polygon Starter Pack:** A versatile collection of 3D models and prefabs that provide the basic environment setup, including:
@@ -49,14 +49,14 @@ This project includes assets from the Unity Asset Store and custom assets for VR
 **VR Hands: **Custom VR hand assets, including prefabs and animations for both left and right hands. These assets can be downloaded from the following link:
 https://drive.google.com/file/d/1Fnli8Tbq7NeTw8pSTwjiZcSbE7UB3rL1/view
 
-#### How to Play
+### How to Play
 Movement: Use the VR controller joystick (or simulator controls) to move around.
 Shooting: Aim with the VR controller and press the trigger to fire bullets at target dummies.
 Scoring: Points are added to the score whenever a target dummy is hit.
 Environment
 The game environment includes basic structures like a ground plane, target dummies, and lighting configurations using an Area Light to create a visually immersive experience. The setup aims to create an effective learning and testing environment for VR mechanics.
 
-#### Scripts Overview
+### Scripts Overview
 The project includes several scripts, each contributing to core game functionality:
 
 **DummyTrigger.cs:** Detects when the player enters a trigger zone and activates target dummies.
@@ -65,7 +65,7 @@ The project includes several scripts, each contributing to core game functionali
 **ScoreManager.cs:** Manages and displays the player’s score on-screen.
 **TargetDummy.cs:** Represents the target dummy objects that the player can shoot at.
 
-#### Using the XR Simulator
+### Using the XR Simulator
 If you don't have a VR headset, you can use the XR Simulator to play the game with simulated VR controls.
 
 Enabling the XR Simulator
