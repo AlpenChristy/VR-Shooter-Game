@@ -1,18 +1,21 @@
 # VR Shooter Game
 A virtual reality shooter game developed as a project and learning experience. This game allows players to fire bullets at target dummies, experience VR hand animations, and see score updates in real-time. The game uses Unity's XR Interaction Toolkit, making it accessible both with an external VR headset or using the XR Simulator for users without VR hardware.
 
+# Video Demo
+https://drive.google.com/file/d/1OkDkTG34KlT1_yiCNfqP_umUE7S-8MUZ/view?usp=sharing
+
 ### Table of Contents
-Features
-Getting Started
-Requirements
-Assets
-Installation
-How to Play
-Environment
-Scripts Overview
-Using the XR Simulator
-External Packages
-Contributing
+- Features
+- Getting Started
+- Requirements
+- Assets
+- Installation
+- How to Play
+- Environment
+- Scripts Overview
+- Using the XR Simulator
+- External Packages
+- Contributing
 
 
 
